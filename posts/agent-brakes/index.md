@@ -89,3 +89,7 @@ Brakes aren't a fixed sequence, and they nest. One of those open questions — t
 This task was small enough that only two axes fired — eagerness and alignment. The third, **context-rot**, shows up when a task runs long enough to span both the forming and the doing: stale assumptions pile up, the agent drifts, the window fills with dead ends. The brakes for that — `/no-op` to absorb context without acting, `/handoff` to reset cleanly into a fresh agent — deserve their own post.
 
 But the move is the same at every scale. The agent is fast — the brakes just make sure it's fast at the *right* thing.
+
+---
+
+The brakes themselves — the slash-command skills — live at [github.com/carbonscott/agent-brakes](https://github.com/carbonscott/agent-brakes). You might not want to install them all; since they're just prompts, you can copy and paste them as needed.
