@@ -2,7 +2,7 @@
 
 People call it different things — *token cost*, *prompt cache*, *KV cache*, *context cache*. They're all pointing at the same thing: the meter that runs every time your agent takes another turn. This post is about why that meter exists, why it climbs faster than you'd expect, and what providers like Anthropic are actually pricing when they list a "cache read" line.
 
-To get there we need a working definition of *agentic AI*. Not the right one — the minimal one.
+To get there we need a working definition of *agentic AI*. Not the most complete one — the minimal one.
 
 ## 1. The minimal definition
 
