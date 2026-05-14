@@ -1,4 +1,4 @@
-# Staying in the driver's seat: agent brakes
+# Agent brakes: working with a skilled but unpredictable partner
 
 Here's the default experience of working with an agent. You type a task, hit enter, and the agent is gone — reading files, writing code, running commands. For pure retrieval — reading, searching, explaining — that's fine; nothing is at stake, so let it run. But the moment a task *changes state* — your code, your files, your configs — the calculus flips. A minute later you're handed a finished result that might even work — but if you and the agent weren't aligned on what you wanted, you're now picking through it to find where it drifted. The review you do at the end is only as cheap as the alignment you did up front.
 
